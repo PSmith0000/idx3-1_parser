@@ -1,0 +1,6 @@
+C:\Users\User3\source\repos\AI_Number_Guess\idx3-ubyte-parser\bin\Debug\idx3-ubyte-parser.exe
+C:\Users\User3\source\repos\AI_Number_Guess\idx3-ubyte-parser\bin\Debug\idx3-ubyte-parser.pdb
+C:\Users\User3\source\repos\AI_Number_Guess\idx3-ubyte-parser\obj\Debug\idx3-ubyte-parser.csprojAssemblyReference.cache
+C:\Users\User3\source\repos\AI_Number_Guess\idx3-ubyte-parser\obj\Debug\idx3-ubyte-parser.csproj.CoreCompileInputs.cache
+C:\Users\User3\source\repos\AI_Number_Guess\idx3-ubyte-parser\obj\Debug\idx3-ubyte-parser.exe
+C:\Users\User3\source\repos\AI_Number_Guess\idx3-ubyte-parser\obj\Debug\idx3-ubyte-parser.pdb
